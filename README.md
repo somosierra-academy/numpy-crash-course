@@ -1,4 +1,4 @@
-# numpy-crash-course
+# Numpy Crash Course
 Transform your numerical analysis with NumPy
 
 * Build your first matrix using Numpy
